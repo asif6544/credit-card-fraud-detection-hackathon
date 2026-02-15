@@ -92,6 +92,8 @@ Special focus was given to **Recall**, since detecting fraudulent transactions i
                  
 ## 📂 Repository Structure
 
+
+```
 credit-card-fraud-detection-hackathon/
 │
 ├── data/
@@ -109,6 +111,8 @@ credit-card-fraud-detection-hackathon/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
+
 
 ## 🚀 How to Run the Project
 
