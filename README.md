@@ -90,13 +90,10 @@ Special focus was given to **Recall**, since detecting fraudulent transactions i
 
 ## 📂 Repository Structure
 
-credit-card-fraud-detection-hackathon/
+credit-card-fraud-detection-hackathon
 │
 ├── credit_card_fraud_detection.py
 └── README.md
-
-
----
 
 ## 🚀 How to Run the Project
 
