@@ -127,7 +127,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 - **Md Asif** – Team Lead  
 - **Vaishnavi Jha**  
-- **Shyamji Diwidhi**  
+- **Shyamji Diwedi**  
 - **Md Imran Ansari**
 
 ---
